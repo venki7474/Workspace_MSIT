@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SecretNotes</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <string name="prompt_Enterthepassword" />
+    <string name="prompt_ReEnter">Re-Enter Password</string>
+    <string name="prompt_confirm">Re-Enter</string>
+    <string name="prompt_enterpassword">Enter Password</string>
+    <string name="prompt_confirmpassword">Re-Enter Password</string>
+    <string name="title_activity_image_screen">ImageScreen</string>
+    <string name="title_activity_main_screen1">Your Notes</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="action_New">Create New Note</string>
+    <string name="action_createCheck">Create</string>
+    <string name="title_activity_new_note">Create Here</string>
+    <string name="menu_delete">Delete</string>
+    <string name="title_activity_note_detail">NoteDetail</string>
+    <string name="title_activity_login_screen">Login</string>
+    <string name="title_activity_note_detail_edit">Edit</string>
+    <string name="action_edit">Edit Note</string>
+</resources>
